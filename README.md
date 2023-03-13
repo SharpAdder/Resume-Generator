@@ -7,6 +7,7 @@ Creates a basic HTML form for generating a resume. <br>
 The form contains various input fields for personal details, education, skills, and employment experience. <br>
 The form also includes a button to create the resume. 
 <hr>
+
 #### Js file 
 ```createResume()``` function retrieves the data from the form elements on a webpage and uses that data to generate an HTML document. <br>
 
